@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rootamiunik
-- 👀 I’m interested in I am searching that
-- 🌱 I’m currently learning web dev
+- 👀 I’m interested in Ui/Ux Design
+- 🌱 I’m currently learning web dev and How to design properly 
 
 
 <!---
